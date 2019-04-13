@@ -1,7 +1,7 @@
 /* eslint-disable @typescript-eslint/camelcase */
 module.exports = {
     siteMetadata: {
-        title: `Vivek Parekh Portfolio`,
+        title: `Vivek Parekh's Portfolio`,
         description: `Vivek Parekh Portfolio Website.`,
         author: `Vivek Parekh`,
     },
